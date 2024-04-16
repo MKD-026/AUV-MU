@@ -6,3 +6,4 @@ gpu=$((GPU_temp/1000))
 
 echo "CPU $cpu°C"
 echo "GPU $gpu°C"
+

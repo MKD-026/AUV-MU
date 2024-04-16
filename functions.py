@@ -22,7 +22,6 @@ def straight(check):
         val = [0, 1900, 1900, 1900, 1100]
     else:
         val = [1, 1900, 1900, 1900, 1100]
-
     return val
 
 def anticlockwise(check):
@@ -30,7 +29,6 @@ def anticlockwise(check):
         val = [0, 1100, 1100, 1900, 1100]
     else:
         val = [1, 1100, 1100, 1900, 1100]
-
     return val
 
 def clockwise(check):
@@ -38,6 +36,5 @@ def clockwise(check):
         val = [0, 1200, 1800, 1200, 1200]
     else:
         val = [1, 1200, 1800, 1200, 1200]
-
     return val
 

@@ -15,4 +15,3 @@ while True:
     count = count + 1
     if count == 25:
         break
-        

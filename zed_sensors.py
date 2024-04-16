@@ -36,9 +36,3 @@ print(" \t Acceleration: [ {0} {1} {2} ] [m/sec^2]".format(linear_acceleration[0
 # angular velocities
 angular_velocity = sensors_data.get_imu_data().get_angular_velocity()
 print(" \t Angular Velocities: [ {0} {1} {2} ] [deg/sec]".format(angular_velocity[0], angular_velocity[1], angular_velocity[2]))
-
-
-
-
-
-

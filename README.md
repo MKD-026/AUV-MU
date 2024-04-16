@@ -61,6 +61,7 @@ The models used for object detection are: Yolo v5nano, V7, V8nano. The criteria 
 
 As Yolo V8nano has the highest inference speed, we chose to use this model for the AI tasks. 
 
-### 5. Contact
-    For more information about the project, please feel free to reach out at: das20ucse101@mahindrauniversity.edu.in
+### 5. Contact:
+For more information about the project, please feel free to reach out at: das20ucse101@mahindrauniversity.edu.in
+
 ---
