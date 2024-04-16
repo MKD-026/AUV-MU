@@ -39,7 +39,6 @@ git clone https://github.com/MKD-026/AUV-MU.git
 cd AUV-MU
 ```
 
-
 ### 3. Files:
 - temp.sh: This code helps in monitoring the GPU and CPU temperatures of the AUV.
 - functions.py: This file contains the controller commands to move the AUV: 
@@ -63,3 +62,4 @@ As Yolo V8nano has the highest inference speed, we chose to use this model for t
 
 ### 5. Contact
 For more information about the project, please feel free to reach out at: das20ucse101@mahindrauniversity.edu.in
+---
