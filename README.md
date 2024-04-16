@@ -47,6 +47,7 @@ cd AUV-MU
     - Surge+Yaw (Move diagonal left and move disgonal right) 
 - finaltrackingtensor.py: This is the main code that imports all the files, it loads the object detection model, determines the direction the AUV should proceed, and sends commands to the arduino to manipulate the thruster speeds. 
 - zed_sensors.py: Testing sensors present in the ZED 2i camera. 
+- pyFirmata.py: Testing using pyFirmata communiation library.
 - yolov8_training.ipynb: Training notebook for training Yolo v8nano.
 
 ### 4. Model accuracy:
