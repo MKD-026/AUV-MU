@@ -1,7 +1,7 @@
 # Autonomous Underwater Vehicle - Mahinra University 
 ![AUV-MU](./assets/AUV.jpg)
 This repository contains the codes developed for the AUV for the Singapore Autonomous Underwater Challenge (SAUVC). It contains the training notebooks, object-detection code, and client-server communication code between the Arduino and the Jetson Xavier.
-[[Technical Report]](./assets/MU_AUV_Technical_Report2024%202.pdf) [[Demo]](./assets/AUV.mp4)
+[[Technical Report]](./assets/MU_AUV_Technical_Report2024.pdf) [[Demo]](./assets/AUV.mp4)
 
 ---
 ## Contents:
