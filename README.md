@@ -1,4 +1,4 @@
-# Autonomous Underwater Vehicle - Mahinra University 
+# Autonomous Underwater Vehicle - Mahindra University 
 ![AUV-MU](./assets/AUV.jpg)
 This repository contains the codes developed for the AUV for the Singapore Autonomous Underwater Challenge (SAUVC). It contains the training notebooks, object-detection code, and client-server communication code between the Arduino and the Jetson Xavier.
 [[Technical Report]](./assets/MU_AUV_Technical_Report2024.pdf) [[Demo]](./assets/AUV.mp4)
@@ -16,7 +16,9 @@ This repository contains the codes developed for the AUV for the Singapore Auton
 The SAUVC challenge comprises of two rounds and namely four tasks: Navigation, Target acquisition, Target reacquisition, and Communication and localization. 
 
 ### 2. Requirements and installation:
-The hardware components used for the AUV are: Jetson Xavier (edge computer used for AI tasks such as path-planning, obstacle avoidance, and object-detection), and Arduino (microcontroller for communicating with the T200 thrusters).
+The hardware components used for the AUV are: Jetson Xavier (edge computer used for AI tasks such as path-planning, obstacle avoidance, and object-detection), and Arduino (microcontroller for communicating with the 6 T200 thrusters).
+
+![AUV-MU](./assets/DIAGRAM.jpeg)
 
 **Requirements**
 ```
