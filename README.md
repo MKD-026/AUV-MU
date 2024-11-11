@@ -18,7 +18,7 @@ The SAUVC challenge comprises of two rounds and namely four tasks: Navigation, T
 ### 2. Requirements and installation:
 The hardware components used for the AUV are: Jetson Xavier (edge computer used for AI tasks such as path-planning, obstacle avoidance, and object-detection), and Arduino (microcontroller for communicating with the 6 T200 thrusters).
 
-![AUV-MU](./assets/DIAGRAM.jpeg)
+![AUV-MU](./assets/circuit.jpeg)
 
 **Requirements**
 ```
